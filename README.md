@@ -17,7 +17,6 @@ Este projeto automatiza o processo de cadastro de produtos em um sistema web usa
 ## 📂 Estrutura do Projeto
 - `main.py`: Script principal
 - `produtos.csv`: Planilha com os produtos a cadastrar
-- `requirements.txt`: Bibliotecas utilizadas
 
 ## ▶️ Como usar
 1.  **Instale as dependências:**
