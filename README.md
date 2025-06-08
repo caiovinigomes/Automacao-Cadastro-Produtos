@@ -25,11 +25,12 @@ Este projeto automatiza o processo de cadastro de produtos em um sistema web usa
     ```
 2.  **Organize os arquivos:** Certifique-se de que `main.py` e `produtos.csv` estejam no mesmo diretório.
 
-3.  **Verifique a URL:** O script interage com uma página web que foi desenvolvida com fins didáticos pela instituição que ministrou o curso. **É importante ressaltar que o site pode não estar mais no ar.**
+3.  **Verifique a URL:** O script interage com uma página web que foi desenvolvida com fins didáticos pela instituição que ministrou o curso.
+**É importante ressaltar que o site pode não estar mais no ar.**
 
 4.  **Execute o script:**
     ```bash
-    python codigo.py
+    python main.py
     ```
     **Atenção:** Mantenha o mouse e o teclado livres durante a execução, pois o PyAutoGUI simulará suas ações.
 
